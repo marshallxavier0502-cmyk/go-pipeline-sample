@@ -27,5 +27,5 @@ Bring Your Own Infrastructure:
 
 ## Licensing
 
-MIT License
+MIT License2
 Test
