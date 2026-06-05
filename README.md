@@ -1,4 +1,4 @@
-# Go Sample Pipelines in Harness  to final
+# Go Sample Pipelines in Harness  
 
 Introduction
 ========================
