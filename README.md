@@ -1,6 +1,6 @@
 # Go Sample Pipelines in Harness
 
-Introduction
+Introduction to Jungle
 ========================
 This repository is a home for snippets of YAML code and a sample hello world server for the Harness CI Community.
 
@@ -28,3 +28,7 @@ Bring Your Own Infrastructure:
 ## Licensing
 
 MIT License
+
+## Trigger
+
+Let's check the trigger working 
